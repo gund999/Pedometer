@@ -23,5 +23,11 @@ A step counter. Utilizes a moving window to zero crossings for the derivative of
 3. Start Walking.
 4. Observe the step count displayed on the OLED screen.
 
+## Setup
+![Setup](Images/Setup.png)
+
 ## Holder
-![DerivDifWalk](Images/DerivDifWalk.png)
+![IMUHolder](Images/IMUHolder.png)
+
+## Flowchart
+![Flowchart](Images/PedometerAlgo.png)
